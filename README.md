@@ -1,4 +1,4 @@
-- 👋 Hi my namme Joe Wilson
+- 👋 Hi my name Joe Wilson
 - 👀 I’m a data science enthusiast and social entrepreneur
 - 🌱 I’m currently seeking to learn new skills and use data science for social good
 - 💞️ I’m looking to collaborate with individuals in the data world in areas of machine learning, NLP, etc.
